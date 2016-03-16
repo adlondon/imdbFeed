@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  .main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 85%;
+    img {
+      width: 300px;
+      margin: 20px;
+    }
+  }
+}
