@@ -1,6 +1,15 @@
 # imdbFeed
 A Batman movie collection application using CRUD functionality and built with Backbone
 
+**To run application:**
+```
+install npm 
+npm install bower
+bower install serve underscore jquery backbone
+serve
+ ```
+ Site runs on localhost:3000
+
 **Future updates to be completed**
 * Fix styling to better display information and hide edit forms. 
 
